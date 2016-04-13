@@ -6,6 +6,10 @@
 
 Colours curated by Web and Mobile designer and developer Tina from [Tinacious Design](http://tinaciousdesign.com).
 
+![](images/01_javascript-angular.png)
+![](images/04_javascript-ember.png)
+![](images/02_html.png)
+![](images/03_stylus.png)
 
 
 ## Changelog
